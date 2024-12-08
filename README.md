@@ -1,4 +1,5 @@
 # bantuin_app
+<img src="https://github.com/user-attachments/assets/febfab0d-9d4e-4c9d-8258-439ec7c2e3b4" alt="Contoh Gambar" width="300">
 
 
 ![WhatsApp Image 2024-12-07 at 16 26 21_7f486989](https://github.com/user-attachments/assets/febfab0d-9d4e-4c9d-8258-439ec7c2e3b4)
